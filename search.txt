@@ -1,0 +1,2 @@
+find ~ -name *.plist 
+find ~ -name *.plist -and -not -path *QuickTime*
